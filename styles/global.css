@@ -1,14 +1,14 @@
 @font-face {
   font-family: "LinkedIn Primary Font Regular";
-  src: url("../assets/typography/Source Serif Pro/SourceSerifPro-Regular.ttf") format("truetype");
+  src: url("../assets/typography/source-serif-pro/SourceSerifPro-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "LinkedIn Primary Font SemiBold";
-  src: url("../assets/typography/Source Serif Pro/SourceSerifPro-Semibold.ttf") format("truetype");
+  src: url("../assets/typography/source-serif-pro/SourceSerifPro-Semibold.ttf") format("truetype");
 }
 @font-face {
   font-family: "LinkedIn SourceSans";
-  src: url("../assets/typography/Source Sans Pro/SourceSansPro-Regular.ttf") format("truetype");
+  src: url("../assets/typography/source-sans-pro/SourceSansPro-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "LinkedIn SourceSans Bold";
