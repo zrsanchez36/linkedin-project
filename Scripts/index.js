@@ -12,7 +12,18 @@ let jobTitle = 'Software Engineer'
 // Step 2: Store element in a temporary Variable
 // Step 3: ADD/ Remove/ update the element
 
-let usernameElement: document.querySelector(".data-username");
+for (const element of usernameElement) {
+    element.innerHTML = username;
+}
+
+
+let usernameElement= document.querySelectorAll(".data-username");
 usernameElement.innerText = userName;
+
+let profilePictureElement = document.querySelector(".data-profile-picture");
+profilePictureElement.src = profilePicture;
+
+let jobTitleElement = document.querySelector('data-jobtitle');
+jobTitleElement.innerHTML = jobTitle
 
 
